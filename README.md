@@ -26,7 +26,7 @@ WebForApplications — это серверное приложение, пред�
 * **Контейнеризация:** Docker, Docker Compose
 * **Тестирование:** xUnit, Moq, FluentAssertions
 * **Документация API:** Swagger / OpenAPI
-* **Документация проекта** Gemini
+* **Документация проекта**: Gemini
 
 ---
 
